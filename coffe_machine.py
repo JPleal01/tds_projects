@@ -31,7 +31,7 @@ resources = {
     "coffee": 100,
     "money": 0
 }
-
+end = False
 while end != True:
     order = input("\nWhat would you like to order?\nCappuccino, Latte or Espresso?\n").lower()
 
